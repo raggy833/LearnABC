@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: ce6f28ccf85c520478d8521ff7cdc091
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Henny Penny
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c96182dd2b9adb442b79a22e5c6471ed, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
